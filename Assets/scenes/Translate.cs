@@ -13,6 +13,6 @@ public class Translate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0f * Time.deltaTime, 0.0f, -9.0f);
+        transform.Translate(0.0f * Time.deltaTime, 0.0f, -20.0f);
     }
 }
